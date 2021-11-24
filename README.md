@@ -3,10 +3,13 @@
 ### projects
 #### projects
 * I am rishitha
-1. James Madison
+1. VR Siddartha College
 1. This is a github
    * This is a github
      * This is a github
 
-![Github Light](https://i.guim.co.uk/img/media/fd3845792ff2cc5b654219f5363d2f03df864cf5/293_291_2370_1422/master/2370.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=78fd1acf71dc7f194f412c606375dcb4)
-     
+![Github Light](https://media.glamour.com/photos/5af34e162865d05a333a2dcd/master/pass/MCDSUSQ_EC047.jpg)
+
+- [x] #739
+- [ ] https://i.pinimg.com/474x/32/53/cd/3253cd1607277e381ac00a74c9754c30.jpg
+- [ ] Add delight to the experience when all tasks are complete :tada:
