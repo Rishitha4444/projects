@@ -17,5 +17,7 @@
 
 name|RollNo
 ----|------
-Rishitha|44
-Geethika|4
+Rishitha|4
+Geethika|44
+Likhitha|24
+
