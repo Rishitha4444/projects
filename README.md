@@ -39,4 +39,8 @@ Likhitha|24
 ![N17](https://user-images.githubusercontent.com/94949392/173895308-6c0a6edf-31ea-4aea-9eea-b660c271e24b.png)
 ![N18](https://user-images.githubusercontent.com/94949392/173895326-81143df7-80be-4336-b1ac-0ce1bfc05de5.png)
 ![N19](https://user-images.githubusercontent.com/94949392/176180196-df6a571f-1569-4ed6-875c-51bd822f9abb.png)
+![N20](https://user-images.githubusercontent.com/94949392/176192166-fecb9ee1-a1e4-4be6-944b-dd9e881bce74.png)
+![N21](https://user-images.githubusercontent.com/94949392/176195657-5ca8d36a-ed5a-4498-a957-56b648a77990.png)
+![N22](https://user-images.githubusercontent.com/94949392/176196773-515c9bf7-e038-493c-86dd-95bff2c7b373.png)
+![N23](https://user-images.githubusercontent.com/94949392/176197575-4f665cbf-a2ef-4be4-9e97-b8dd2ce947ef.png)
 
