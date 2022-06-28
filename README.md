@@ -20,6 +20,7 @@ name|RollNo
 Rishitha|4
 Geethika|44
 Likhitha|24
+![Capture](https://user-images.githubusercontent.com/94949392/176199950-7e6461e8-3cba-454d-957c-b075219b542d.PNG)
 ![N1](https://user-images.githubusercontent.com/94949392/173862911-75f3e228-362f-478b-b07e-fd0f74edbc20.png)
 ![N2](https://user-images.githubusercontent.com/94949392/173864761-17ed792f-91a0-4a09-a95a-c869e19831ca.png)
 ![N3](https://user-images.githubusercontent.com/94949392/173864826-5ddda47a-57cc-4f71-b4c2-cdb1096b431d.png)
