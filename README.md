@@ -67,4 +67,6 @@ Likhitha|24
 ![Screenshot 2022-07-28 112002](https://user-images.githubusercontent.com/94949392/181432089-93e79661-c2d6-4a23-90a9-e5d4028a9bbd.png)
 ![Screenshot 2022-07-28 112043](https://user-images.githubusercontent.com/94949392/181432097-32dcafb3-4baf-4268-a4b4-4ff31c4cc289.png)
 ![Screenshot 2022-07-28 112135](https://user-images.githubusercontent.com/94949392/181432103-e1459119-b09f-46eb-9394-0ce89d9fd949.png)
+![Screenshot 2022-07-28 114413](https://user-images.githubusercontent.com/94949392/181433946-16476aad-bc00-4f42-a204-49af933a5bdd.png)
+![Screenshot 2022-07-28 114527](https://user-images.githubusercontent.com/94949392/181433968-63c3043e-bde9-4669-b6c1-501d543c5ab5.png)
 
