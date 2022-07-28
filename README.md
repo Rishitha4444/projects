@@ -70,3 +70,8 @@ Likhitha|24
 ![Screenshot 2022-07-28 114413](https://user-images.githubusercontent.com/94949392/181433946-16476aad-bc00-4f42-a204-49af933a5bdd.png)
 ![Screenshot 2022-07-28 114527](https://user-images.githubusercontent.com/94949392/181433968-63c3043e-bde9-4669-b6c1-501d543c5ab5.png)
 
+[1nf.zip](https://github.com/Rishitha4444/projects/files/9207261/1nf.zip)
+![1nf](https://user-images.githubusercontent.com/94949392/181495634-df2b1059-f031-480b-a212-7516afcd5349.jpg)
+![2nf](https://user-images.githubusercontent.com/94949392/181530194-2b53399c-1e41-4fe3-b136-57e3706fe5f1.PNG)
+![Screenshot 2022-07-28 194827](https://user-images.githubusercontent.com/94949392/181537328-f899cec0-712a-4c9e-a3fc-b4d30af41fc9.png)
+
